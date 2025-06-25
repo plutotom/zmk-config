@@ -29,5 +29,7 @@ include:
   # Keep v1 as backup but comment out for now
   - board: nice_nano
     shield: lily58_left
+    artifact-name: lily58_left_v1
   - board: nice_nano
     shield: lily58_right
+    artifact-name: lily58_right_v1
